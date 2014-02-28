@@ -1,0 +1,130 @@
+﻿Построение начато 27.02.2014 0:31:02.
+     1>Проект "C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\CS1\CS1.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(20): warning C4005: FORMAT_LENGTH: изменение макроопределения
+                 c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(11): см. предыдущее определение "FORMAT_LENGTH"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(28): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(29): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(50): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(56): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(79): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(104): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(125): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(160): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(188): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(224): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(286): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(291): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(294): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(316): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(324): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(327): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(330): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(332): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(345): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(348): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(350): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(352): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(381): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(382): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(396): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(425): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(438): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(457): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(459): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(461): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(467): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(474): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(483): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(485): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(494): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(496): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(497): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(498): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(499): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(507): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(515): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(522): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(524): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(525): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(535): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357): см. объявление "sprintf"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(540): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(549): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>c:\users\антон\documents\visual studio 2012\projects\cs1\cs1\main.cpp(550): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\Debug\CS1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\Debug\CS1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\Debug\CS1.lib" /MACHINE:X86 Debug\Main.obj
+         CS1.vcxproj -> C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\Debug\CS1.exe
+     1>Построение проекта "C:\Users\Антон\Documents\Visual Studio 2012\Projects\CS1\CS1\CS1.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.85
